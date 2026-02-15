@@ -1,6 +1,3 @@
-Entendido. Removi as referências a capturas de tela e organizei o texto para que ele seja um guia técnico direto e limpo para o seu repositório no GitHub.
-
-Aqui está o conteúdo do seu README.md:
 
 Projeto: Simulação de Ataques de Força Bruta com Medusa e Kali Linux
 Este projeto demonstra a execução de auditorias de segurança focadas em ataques de força bruta (Brute Force) e Password Spraying. O objetivo é validar a robustez de credenciais em serviços comuns (FTP, SMB e HTTP) utilizando a ferramenta Medusa em um ambiente controlado e seguro.
